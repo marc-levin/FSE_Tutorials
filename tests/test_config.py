@@ -8,3 +8,5 @@ def test_currency_symbol():
 
 def test_secret_key():
     assert Config.get_secret_key() == "supersecretkey"
+
+# Comment in a python file

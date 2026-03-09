@@ -1,4 +1,8 @@
 # ECO5040S - Financial Software Engineering
+
+[![Health Check](https://github.com/marc-levin/FSE_Tutorials/actions/workflows/test.yml/badge.svg)](https://github.com/marc-levin/FSE_Tutorials/actions/workflows/test.yml)
+
+
 Welcome to the repository for ECO5040S - Financial Software Engineering. This course focuses on the principles and practices of software engineering in the context of financial applications.
 
 This course will be taught using Python as the primary programming language, along with relevant libraries and frameworks commonly used in the financial industry.
